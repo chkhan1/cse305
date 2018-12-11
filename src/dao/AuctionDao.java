@@ -139,7 +139,7 @@ public class AuctionDao {
 		auctions = myAuction.getAllAuctions();
 		
 		/*Sample data ends*/
-		
+		//
 		return auctions;
 
 		

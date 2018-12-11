@@ -2,7 +2,7 @@
 
 Hi Nikhil, 
 
-Project Name: The Auction Bay
+Team Name: The Auction Bay
 
 Team Members:
 Chaudhry Khan (109338453, chaudhry.h.khan@stonybrook.edu)
